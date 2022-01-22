@@ -3,4 +3,4 @@ Ipython Notebook with code for Gibbs sampling algorithm in 'Clustering of hetero
 
 If you use this algorithm please cite:
 
-J-G. Young, A. Kirkley, and M. E. J. Newman, Clustering of heterogeneous populations of networks. Preprint arXiv:2107.07489 (2021).
+J-G. Young, A. Kirkley, and M. E. J. Newman, Clustering of heterogeneous populations of networks. Physical Review E 105, 014312 (2022). 
